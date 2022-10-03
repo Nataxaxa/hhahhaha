@@ -1,3 +1,3 @@
 export function App() {
-    return <h1>Хеллоу ворлд!</h1>;
+    return <h1>Хеллоу ворлdд!</h1>;
   }
