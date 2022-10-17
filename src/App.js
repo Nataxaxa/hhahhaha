@@ -1,3 +1,5 @@
+import DashboardLayout from "./components/DashboardLayout/DashboardLayout";
+
 export function App() {
-    return <h1>Хеллоу ворлdд!</h1>;
-  }
+  return <DashboardLayout>Хочу домой!</DashboardLayout>;
+}
