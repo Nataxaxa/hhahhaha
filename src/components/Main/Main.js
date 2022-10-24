@@ -2,10 +2,13 @@ export default function Main({ children }) {
   return (
     <div
       style={{
-        backgroundColor: "FFFFFF",
+        backgroundColor: "9932cc",
+        height: 1000,
         textAlign: "center",
         fontSize: 100,
-        height: "100%",
+        display: 'flex',
+        justifyContent: "center",
+        alignItems: "center",
       }}
     >
       {children}

@@ -4,8 +4,8 @@ export default function Footer() {
       style={{
         background: "#EF5965",
         textAlign: "center",
-        fontSize: 55,
-        height: 250,
+        fontSize: 40,
+        height: 50,
       }}
     >
       Очень хочу спать!
